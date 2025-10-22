@@ -1,0 +1,11 @@
+{
+  "people": 5,
+  "case_1": {
+    "swerve": true,
+    "reason": "Minimizing harm is the primary goal. Hitting one person is preferable to hitting two."
+  },
+  "case_2": {
+    "swerve": true,
+    "reason": "Even if the two are criminals, the autonomous vehicle is not a judge. The child's life is prioritized."
+  }
+}
